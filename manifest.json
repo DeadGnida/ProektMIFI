@@ -1,0 +1,17 @@
+{
+    "name": "Депутаты Волгодонск",
+    "short_name": "ДВ",
+    "start_url": ".",
+    "lang": "ru",
+    "theme_color": "#ffffff",
+    "display": "standalone",
+    "background_color": "#E1E1E1",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "/main/image/icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
